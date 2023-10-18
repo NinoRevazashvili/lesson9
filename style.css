@@ -1,0 +1,89 @@
+body{
+    background-color:#F7F7F7;   
+   }
+   h1{
+       width: 135px;
+       height: 36px;
+       color: #000000;
+       font-size: 25px;
+       font-family:mainfont;
+       margin-left: 180px;
+       margin-bottom: 65px;
+       
+   }
+   .paragraph{
+       width: 651px;
+       height: 45px;
+       color: #434343;
+       font-size: 18px;
+       font-family: secondfont;
+       margin-left: 180px;
+       margin-bottom: 63px;
+   }
+   .bluecontent{
+       display: flex;
+      
+   }
+   .blue{
+       width: 315px;
+       height: 147px;
+       background-color: #0865DE;
+       margin-left: 180px;
+       margin-right: 60px;
+      
+   } 
+   .blueblock{
+       width: 167px;
+       height: 20px;
+       font-size: 14px;
+       font-family: mainfont;
+       color: #FFFFFF;
+       padding-left: 30px;
+       padding-top: 27px;
+   }
+   .blueblock1{
+       width: 28px;
+       height: 18px;
+       font-size: 12px;
+       font-family: mainfont;
+       color: #002D69;
+       padding-top: 10px;
+       padding-left: 30px;
+   }
+   .blueblock2{
+       width: 91px;
+       height: 18px;
+       font-size: 12px;
+       font-family: mainfont;
+       color: #FFFFFF;
+       padding-top: 2px;
+       padding-left: 39px;
+   }
+   h2{
+       width: 157px;
+       height: 36px;
+       color: #111111;
+       font-size: 25px;
+       font-family: mainfont;
+       margin-left: 750px;
+       margin-top: 180px;
+   }
+   .block1{
+       width: 540px;
+       height: 168px;
+       color:#262626;
+       font-size: 25px;
+       font-family: secondfont;
+       margin-top: 60px;
+       margin-left: 750px;
+   }
+   .block2{
+       width: 540px;
+       height: 61px;
+       font-size: 18px;
+       font-family: secondfont;
+       color:#262626;
+       margin-left: 750px;
+       margin-top: 30px;
+   }
+   
