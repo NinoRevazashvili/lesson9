@@ -86,4 +86,36 @@ body{
        margin-left: 750px;
        margin-top: 30px;
    }
-   
+   .maindiv{
+     display: flex; 
+    flex-wrap: wrap; 
+    width: 1260px;
+    height: 923px;
+    background-color: #FFFFFF;
+    margin-top: 180px;
+     margin-left: 250px; 
+
+   }
+  
+   .baby{
+    width: 199px;
+    height: 278px;
+    border-radius:100%;
+    margin-top: 50px;
+    margin-left: 180px;
+    margin-right: 2px;  
+    background-color:#434343;
+   }
+    .h3{
+      margin-top: 20px;
+    margin-left: 210px;
+    margin-right: 2px; 
+    
+   } 
+   .h4{
+      margin-top: 10px;
+    margin-left: 180px;
+    margin-right: 2px;
+    margin-bottom: 2px; 
+   }  
+  
